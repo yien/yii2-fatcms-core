@@ -1,6 +1,6 @@
-fatcms core
+yii2 fatcms core
 ===========
-fatcms core
+fatcms components 
 
 Click on a :star:!
 
