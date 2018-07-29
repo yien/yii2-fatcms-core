@@ -2,6 +2,13 @@ fatcms core
 ===========
 fatcms core
 
+Click on a :star:!
+
+[![Total Downloads](https://poser.pugx.org/yien/yii2-fatcms-core/downloads?format=flat-square)](https://packagist.org/packages/yien/yii2-fatcms-core)
+[![Latest Stable Version](https://poser.pugx.org/yien/yii2-fatcms-core/v/stable?format=flat-square)](https://packagist.org/packages/yien/yii2-fatcms-core)
+[![Latest Unstable Version](https://poser.pugx.org/yien/yii2-fatcms-core/v/unstable?format=flat-square)](https://packagist.org/packages/yien/yii2-fatcms-core)
+[![License](https://poser.pugx.org/yien/yii2-fatcms-core/license?format=flat-square)](https://packagist.org/packages/yien/yii2-fatcms-core)
+
 Installation
 ------------
 
