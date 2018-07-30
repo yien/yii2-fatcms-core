@@ -131,7 +131,15 @@ if (! function_exists("get_ip")) {
      *
      * @return mixed|null|string
      */
-    function get_ip() {
+    function get_ip()
+    {
         return request()->userIP;
     }
 }
+
+
+
+
+
+
+

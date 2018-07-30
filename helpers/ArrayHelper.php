@@ -1,7 +1,9 @@
 <?php
 namespace fatcms\core\helpers;
 
-class ArrayHelper extends \yii\helpers\ArrayHelper
+use yii\helpers\ArrayHelper as BaseArrayHelper;
+
+class ArrayHelper extends BaseArrayHelper
 {
 
 }
